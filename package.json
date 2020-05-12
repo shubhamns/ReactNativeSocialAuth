@@ -10,8 +10,11 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/google-signin": "^4.0.1",
     "react": "16.11.0",
-    "react-native": "0.62.2"
+    "react-native": "0.62.2",
+    "react-native-fbsdk": "^1.1.2",
+    "react-native-twitter-signin": "^1.1.1"
   },
   "devDependencies": {
     "@babel/core": "7.9.6",

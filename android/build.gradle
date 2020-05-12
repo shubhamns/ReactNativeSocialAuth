@@ -8,6 +8,7 @@ buildscript {
         targetSdkVersion = 28
     }
     repositories {
+        mavenCentral()
         google()
         jcenter()
     }
